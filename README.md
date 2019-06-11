@@ -18,3 +18,9 @@ Above command , compile your initial code and start a port 4205 to Launch your a
 Open url http://localhost:4205/ to see your starter app with Angular 7
 
 till time, I haven't made any changes with AngularFirst.
+
+Angular CLI by default created folders and files to setup your initial project.
+Folder: e2e:- This folder is used to test end to end testing of your app.
+for More details: https://www.google.com/search?ei=YI7_XJ2MEs2t5wK3iIHIDA&q=e2e+angular&oq=e2e+a&gs_l=psy-ab.1.0.0i67l4j0l6.4581.4957..6522...0.0..0.356.708.3-2......0....1..gws-wiz.......0i71j0i131i67.CrT0re3JBGQ
+
+
