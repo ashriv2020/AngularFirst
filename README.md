@@ -11,3 +11,10 @@ It will Create a folder with Named 'AngularFirst'
 
 Open this folder with your editor.
 I am using vscode 
+
+Open Powershell terminal from vscode. 
+run command ng serve --port 4205
+Above command , compile your initial code and start a port 4205 to Launch your application.
+Open url http://localhost:4205/ to see your starter app with Angular 7
+
+till time, I haven't made any changes with AngularFirst.
